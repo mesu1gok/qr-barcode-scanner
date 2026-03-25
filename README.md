@@ -85,4 +85,31 @@ Easy_Barcode_Reader_QR_Scanner/
 ├── LICENSE                          # Apache License 2.0
 ├── README.md                        # Project documentation
 └── .gitignore                       # Git ignore rules
+```
+## Installation
+
+To set up the project locally:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/mesu1gok/qr-barcode-scanner.git
+```
+2. **Open the project in Android Studio**
+
+- *Launch Android Studio.*
+
+- *Select Open an existing project.*
+
+- *Choose the cloned folder.*
+
+3. **Build & Run**
+
+- *Connect an Android device or start an emulator.*
+
+- *Click Run in Android Studio.*
+
+## License
+This project is licensed under the Apache License 2.0.  
+See the [LICENSE](https://github.com/mesu1gok/qr-barcode-scanner/blob/main/LICENSE) file for details.
 
