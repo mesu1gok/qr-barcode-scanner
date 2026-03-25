@@ -28,9 +28,10 @@ Built with **Kotlin**, **CameraX**, and **Jetpack Compose**, it provides a clean
 ### Permission Handling
 - Android 13+ compatible camera permission dialog
 - Supports:
-  - *While using the app*
-  - *Only this time*
-  - *Don’t allow*
+  - While using the app
+  - Only this time
+  - Don’t allow
+    
 
 ### Modern UI (Jetpack Compose)
 - Clean and minimal design
@@ -45,11 +46,11 @@ Built with **Kotlin**, **CameraX**, and **Jetpack Compose**, it provides a clean
 ## Screenshots
 
 <p align="center">
-  <img src="SCREENSHOT_URL_1" width="30%" alt="Scan Screen" />
-  <img src="SCREENSHOT_URL_2" width="30%" alt="History Screen" />
-  <img src="SCREENSHOT_URL_3" width="30%" alt="Favorites Screen" />
-  <img src="SCREENSHOT_URL_3" width="30%" alt="Favorites Screen" />
-  <img src="SCREENSHOT_URL_3" width="30%" alt="Favorites Screen" />
+<img src="https://github.com/user-attachments/assets/82432605-c18f-4efc-b115-acdca6d35580" width="30%" alt="Scan Screen" />
+<img src="https://github.com/user-attachments/assets/d85de76a-24ee-4f4a-a0b5-e242e2020180" width="30%" alt="Favorites Screen" />
+<img src="https://github.com/user-attachments/assets/df34dd43-aa87-4925-af41-492c8ecb22b2" width="30%" alt="Favorites Screen" />
+<img src="https://github.com/user-attachments/assets/dc66d7a9-9b03-4b86-aa66-ac553579c01d" width="30%" alt="History Screen" />
+<img src="https://github.com/user-attachments/assets/df64e47e-bd4e-49db-90b7-5db7b3ac466f" width="30%" alt="Favorites Screen" />
 </p>
 
 ---
@@ -97,17 +98,17 @@ git clone https://github.com/mesu1gok/qr-barcode-scanner.git
 ```
 2. **Open the project in Android Studio**
 
-- *Launch Android Studio.*
+- Launch Android Studio.
 
-- *Select Open an existing project.*
+- Select Open an existing project.
 
-- *Choose the cloned folder.*
+- Choose the cloned folder.
 
 3. **Build & Run**
 
-- *Connect an Android device or start an emulator.*
+- Connect an Android device or start an emulator.
 
-- *Click Run in Android Studio.*
+- Click Run in Android Studio.
 
 ## License
 This project is licensed under the Apache License 2.0.  
