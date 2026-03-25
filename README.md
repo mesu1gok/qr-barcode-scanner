@@ -70,7 +70,7 @@ Built with **Kotlin**, **CameraX**, and **Jetpack Compose**, it provides a clean
 
 ## Project Structure
 ```text
-Easy_Barcode_Reader_QR_Scanner/
+QR-BARCODE-SCANNER/
 ├── app/
 │   ├── release/                     # Generated release APK/AAB files
 │   └── src/
