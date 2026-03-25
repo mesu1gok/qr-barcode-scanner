@@ -44,5 +44,45 @@ Built with **Kotlin**, **CameraX**, and **Jetpack Compose**, it provides a clean
 
 ## Screenshots
 
-> *(Add your images here once uploaded to GitHub — example format below)*
+<p align="center">
+  <img src="SCREENSHOT_URL_1" width="30%" alt="Scan Screen" />
+  <img src="SCREENSHOT_URL_2" width="30%" alt="History Screen" />
+  <img src="SCREENSHOT_URL_3" width="30%" alt="Favorites Screen" />
+  <img src="SCREENSHOT_URL_3" width="30%" alt="Favorites Screen" />
+  <img src="SCREENSHOT_URL_3" width="30%" alt="Favorites Screen" />
+</p>
+
+---
+
+## Tech Stack
+
+| Technology | Usage |
+|-----------|--------|
+| **Kotlin** | Main programming language |
+| **CameraX** | Real time camera scanning |
+| **Jetpack Compose** | UI components and layout |
+| **ViewModel / State** | Managing UI state |
+| **Navigation** | Bottom navigation bar |
+| **Data Storage** | Local history & favorites |
+
+---
+
+## Project Structure
+```text
+Easy_Barcode_Reader_QR_Scanner/
+├── app/
+│   ├── release/                     # Generated release APK/AAB files
+│   └── src/
+│       ├── main/
+│       │   ├── java/com/main/easybarcode/
+│       │   │   ├── ui/              # Jetpack Compose UI components & screens
+│       │   │   ├── data/            # Local storage, models, repositories
+│       │   │   ├── navigation/      # Bottom navigation & route management
+│       │   │   └── viewmodel/       # ViewModels for state handling
+│       │   └── res/                 # App resources (icons, strings, themes)
+│       └── test/                    # Unit tests
+├── gradle/                          # Gradle wrapper files
+├── LICENSE                          # Apache License 2.0
+├── README.md                        # Project documentation
+└── .gitignore                       # Git ignore rules
 
